@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-9&bbf(+np&$eirxezv2xapvzd2si-vj6_%dxw9)q4+^e_4pdhj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://auth-wiki-team7.onrender.com','localhost']
+ALLOWED_HOSTS = ['auth-wiki-team7.onrender.com','localhost']
 
 # Application definition
 
